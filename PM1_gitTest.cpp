@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudio new Branch!\n";
-	std::cout << "Hello KamataEngine!\n";
+    std::cout << "Hello KamataEngine!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
