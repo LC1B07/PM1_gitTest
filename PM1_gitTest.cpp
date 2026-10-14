@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudio new Branch!\n";
-	std::cout << "Hello VisualStudio new PullRequest!\n";
+	std::cout << "Hello new PullRequest!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
